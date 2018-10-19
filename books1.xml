@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book>
+		<name>数据结构</name>
+		<author>严蔚敏</author>
+		<age>2016</age>
+		<price>32</price>
+	</book>
+	<book>
+		<name>计算机组成原理</name>
+		<age>2015</age>
+		<price>28</price>
+		<languange>English</languange>
+	</book>
+</bookstore>
